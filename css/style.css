@@ -39,7 +39,7 @@ section > :is(p, h1, h2, h3, ul), #form {
 }
 
 h1 {
-    font-family: 'Patrick Hand', cursive;
+    font-family: 'Hanken Grotesk', cursive;
     color: #789757;
     font-size: 2.3rem;
     margin-bottom: 0.5rem;
@@ -47,15 +47,15 @@ h1 {
 }
 
 h3 {
-    font-family: 'Patrick Hand', cursive;
+    font-family: 'Hanken Grotesk', cursive;
     color: #789757;
     font-size: 1.8rem;
     margin-bottom: 0.5rem;
 }
 
 .time {
-    font-family: 'Patrick Hand', cursive;
-    color: #789757;
+    font-family: 'Roboto', cursive;
+    color: #343434;
     font-size: 1.3rem;
     font-weight: 900;
     margin-right: .8rem;
